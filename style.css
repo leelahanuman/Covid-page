@@ -1,0 +1,87 @@
+
+.Covid-container {
+    border-style: solid;
+    border-width: 5px;
+    border-color: sky blue;
+}
+
+.covid-header {
+    margin: 15px;
+}
+
+.covid-heading-text {
+    color: #323f4b;
+    font-family: "Robotto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.btn-btn-primary {
+    color: #ffffff;
+    background-color;
+    #0967d2;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 85px;
+    height: 30px;
+    border-width: 5px;
+    border-radius: 8px;
+}
+
+.covid-card-container {
+    border-radius: 12px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Covid-test-bg {
+    background-color: #0967d219;
+}
+
+.covid-card-image {
+    width: 48px;
+    height: 48px;
+    margin: 10px;
+}
+
+.covid-card-text-container {
+    padding: 5px;
+}
+
+.covid-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.sub-heading {
+    color: #323f4b;
+    font-family: "Robotto";
+    font-size: 25px;
+    font-weight: 500;
+    margin: 15px;
+}
+
+.cough-symptom-bg {
+    background-color: #3ebd93;
+}
+
+.fever-symptom-bg {
+    background-color: #e668a7;
+}
+
+.headache-symptom-bg {
+    background-color: #a368fc;
+}
+
+.symptom-text {
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 5px;
+}
+
+.covid-video-bg {
+    background-color: #e21d321;
+}
